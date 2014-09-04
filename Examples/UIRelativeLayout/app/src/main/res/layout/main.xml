@@ -30,4 +30,12 @@
         android:text="@string/cancel_string"
         android:textSize="24sp" />
 
+    <Button
+            android:id="@+id/center_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/center_string"
+            android:textSize="24sp" />
+
 </RelativeLayout>
