@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">UIRelativeLayout</string>
+    <string name="activity_buttons_in_center">Ideally central buttons</string>
     <string name="ok_string">OK</string>
     <string name="cancel_string">Cancel</string>
+    <string name="center_string">Center</string>
     <string name="type_here_string">Type here:</string>
 </resources>
